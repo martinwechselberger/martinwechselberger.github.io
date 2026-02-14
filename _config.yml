@@ -14,7 +14,7 @@ repository              : "martinwechselberger/martinwechselberger.github.io"
 
 # Site Author
 author:
-  avatar           : "profile.png" # Upload your photo as profile.png to the /images/ folder
+  avatar           : "headshot.jpg" # Upload your photo as profile.png to the /images/ folder
   name             : "Martin Wechselberger"
   bio              : "Professor"
   location         : "Sydney, Australia"
