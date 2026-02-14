@@ -11,10 +11,10 @@ author_profile: true
 
 ## Academic Leadership & Service
 * **Chair**, SIAM Activity Group on Dynamical Systems (2026 – Present)
-* **Editorial Board Member**, *SIAM Review* (SIREV) (2025 – Present)
+* **Editorial Board Member**, *SIAM Review* (2025 – Present)
 * **Editorial Board Member**, *SIAM Journal on Applied Dynamical Systems* (2015 – Present)
 * **Editorial Board Member**, *Journal of Mathematical Neuroscience* (2011 – 2020)
-* **Editorial Board Member**, *JDiscrete and Continuous Dynamical Systems - S* (2008 – 2017)
+* **Editorial Board Member**, *Discrete and Continuous Dynamical Systems-S* (2008 – 2017)
 * **Portal Editor-in-Chief** : *DSWeb* (2008 – 2009)
 
 
