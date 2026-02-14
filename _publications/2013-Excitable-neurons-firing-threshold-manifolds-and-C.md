@@ -1,8 +1,8 @@
 ---
-title: "Canard theory and excitability"
+title: "Excitable neurons, firing threshold manifolds and Canards"
 collection: publications
 category: manuscripts
-permalink: /publication/2013-Canard-theory-and-excitability
+permalink: /publication/2013-Excitable-neurons-firing-threshold-manifolds-and-C
 date: 2013-01-01
 venue: 'Journal Article'
 ---

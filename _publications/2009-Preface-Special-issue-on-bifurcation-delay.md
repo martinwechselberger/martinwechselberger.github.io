@@ -1,8 +1,8 @@
 ---
-title: "Bifurcations of mixed-mode oscillations in a stellate cell model"
+title: "Preface: Special issue on bifurcation delay"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-Bifurcations-of-mixed-mode-oscillations-in-a-stell
+permalink: /publication/2009-Preface-Special-issue-on-bifurcation-delay
 date: 2009-01-01
 venue: 'Journal Article'
 ---

@@ -1,8 +1,9 @@
 ---
 title: "Mixed mode oscillations due to the generalized Canard phenomenon"
 collection: publications
+category: manuscripts
 permalink: /publication/2006-Mixed-mode-oscillations-due-to-the-generalized-Can
 date: 2006-01-01
-venue: 'Journal Name (Syncing...)'
+venue: 'Journal Article'
 ---
-Automatically synced from ORCID.
+Automatically synced from ORCID profile 0000-0003-2681-3440.

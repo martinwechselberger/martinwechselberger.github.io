@@ -1,8 +1,8 @@
 ---
-title: "Geometric Singular Perturbation Theory Beyond the Standard Form"
+title: "(In)stability of Travelling Waves in a Model of Haptotaxis"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-Geometric-Singular-Perturbation-Theory-Beyond-the-
+permalink: /publication/2020-In-stability-of-Travelling-Waves-in-a-Model-of-Hap
 date: 2020-01-01
 venue: 'Journal Article'
 ---

@@ -1,8 +1,8 @@
 ---
-title: "Mixed mode oscillations as a mechanism for pseudo-plateau bursting"
+title: "Folds, canards and shocks in advection-reaction-diffusion models"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-Mixed-mode-oscillations-as-a-mechanism-for-pseudo-
+permalink: /publication/2010-Folds-canards-and-shocks-in-advection-reaction-dif
 date: 2010-01-01
 venue: 'Journal Article'
 ---
