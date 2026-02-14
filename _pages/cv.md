@@ -36,7 +36,7 @@ author_profile: true
 
 ## Major Research Funding (Lead Investigator)
 * **ARC Discovery Project (DP260100522)**: Geometric methods for rate-induced tipping (Lead CI).
-* **ARC Discovery Project (DP220101817)**: A coordinate-independent theory for multitime-scale dynamical systems (Lead CI).
-* **ARC Discovery Project (DP200102130)**: A Novel Geometric Approach to Shocks in Reaction-Nonlinear Diffusion Models (Lead CI).
+* **ARC Discovery Project (DP220101817)**: A coordinate-independent theory for multi time-scale dynamical systems (Lead CI).
+* **ARC Discovery Project (DP200102130)**: The geometry of shock waves in reaction-nonlinear diffusion models (Lead CI).
 * **ARC Discovery Project (DP180103022)**: A geometric theory for non-standard relaxation oscillators (Lead CI).
 * **ARC Discovery Project (DP110102775)**: A geometric theory for travelling waves in advection-reaction-diffusion models (Lead CI).
