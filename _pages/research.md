@@ -13,8 +13,8 @@ My research program focuses on the development of geometric methods for multi-ti
   * **Role:** First Investigator (Lead)
   * **Summary:** This project develops a novel geometric framework for rate-induced tipping (R-tipping) to predict ecosystem collapses and identify early warning signals for climate-related transitions.
 * **Determining endocrine-mediated plastic responses to transient heat waves** (DP250101953)
-  * [cite_start]**Role:** Chief Investigator [cite: 23]
-  * **Summary:** This interdisciplinary project aims to determine the resilience of animals to heat waves by uncovering endocrine-mediated mechanisms and constructing a novel predictive mathematical model of the environment-endocrine-phenotype axis[cite: 31, 610, 1074].
+  * **Role:** Chief Investigator
+  * **Summary:** This interdisciplinary project aims to determine the resilience of animals to heat waves by uncovering endocrine-mediated mechanisms and constructing a novel predictive mathematical model of the environment-endocrine-phenotype axis.
 * **A coordinate-independent theory for multitime-scale dynamical systems** (DP220101817)
   * **Role:** First Investigator (Lead)
   * **Summary:** Formulation of a frame-independent GSPT to analyse systems where standard global timescale splittings are unavailable.
