@@ -16,7 +16,7 @@ repository              : "martinwechselberger/martinwechselberger.github.io"
 author:
   avatar           : "profile.png" # Upload your photo as profile.png to the /images/ folder
   name             : "Martin Wechselberger"
-  bio              : "Professor of Applied Mathematics. Recipient of the 2017 J.D. Crawford Prize."
+  bio              : "Professor. Recipient of the 2017 J.D. Crawford Prize."
   location         : "Sydney, Australia"
   employer         : "University of Sydney"
   email            : "martin.wechselberger@sydney.edu.au"
