@@ -1,0 +1,25 @@
+name: Sync ORCID
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Run Sync Script
+        run: |
+          pip install requests
+          python sync_orcid.py 
+      - name: Commit changes
+        run: |
+          git config --global user.name "ORCID-Bot"
+          git config --global user.email "bot@github.com"
+          git add _publications/
+          git commit -m "Updated publications from ORCID" || exit 0
+          git push
