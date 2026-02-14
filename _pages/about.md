@@ -22,20 +22,24 @@ My work addresses the challenge of analysing "non-standard" multiple timescale p
 * **Mathematical Physiology:** Providing widely accepted explanations for complex oscillatory patterns in neural and neuroendocrine models.
 * **Geometric Singular Perturbation Theory (GSPT):** Advancing coordinate-independent methods and higher-order averaging to resolve hidden timescale structures.
 
+---
 
-
+## Current Research Projects
+* **Geometric methods to detect rate-induced tipping events:** ARC Discovery Project (DP260100522) aiming to identify triggers for sudden environmental collapses.
+* **A coordinate-independent theory for multitime-scale dynamical systems:** ARC Discovery Project (DP220101817).
+* **A Novel Geometric Approach to Shocks in Reaction-Nonlinear Diffusion Models:** ARC Discovery Project (DP200102130).
 
 ---
 
 ## Academic Leadership
-I am part of the **Sydney Dynamics Group (SDG)** and serve as a Professor in the [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/) at the University of Sydney. My research program has been consistently supported by the **Australian Research Council (ARC)**, including a prestigious **Future Fellowship** and multiple **Discovery Projects**. 
+I am part of the **Sydney Dynamics Group (SDG)** and serve as a Professor in the [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/) at the University of Sydney. My research program has been consistently supported by the **Australian Research Council (ARC)**, including a prestigious **Future Fellowship** and multiple **Discovery Projects**.
 
 I maintain a global collaborative network, including frequent partnerships with researchers in the USA, EU, and New Zealand.
 
 ---
 
 ## Teaching & Mentoring
-I am passionate about training the next generation of mathematical scientists. I have supervised over 15 honours and postgraduate students to completion, many of whom now hold permanent academic positions in Australia and abroad.
+I have supervised many honours, MMSci and PhD students to completion.
 
 **Current Units:**
 * **MATH3963:** Differential Equations and Biomaths (Advanced)
