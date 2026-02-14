@@ -37,11 +37,4 @@ I coordinate and teach units within the School of Mathematics and Statistics at 
   * John Mitry
   * Theodore Vo
 
-### Honours & MMSci Students
-* **Current**
-  * Rowan Cargill
-* **Former**
-  * Mikaela de Stradis
-  * Xavier Dimos
-
 ---
