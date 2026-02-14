@@ -9,7 +9,6 @@ if not os.path.exists(out_dir):
     os.makedirs(out_dir)
 
 def clean_slug(text):
-    # Removes LaTeX and special characters for a clean URL
     text = re.sub(r'\$.*?\$', '', text) 
     return re.sub(r'[^a-zA-Z0-9]+', '-', text).strip('-')
 
@@ -22,14 +21,10 @@ def get_orcid_works(orcid_id):
 data = get_orcid_works(ORCID_ID)
 for work in data.get('group', []):
     summary = work.get('work-summary', [{}])[0]
-    
     title = summary.get('title', {}).get('title', {}).get('value', 'Untitled')
     year = summary.get('publication-date', {}).get('year', {}).get('value', 'Unknown')
-    
-    # Extract actual Journal Name (Venue)
     venue = summary.get('journal-title', {}).get('value') if summary.get('journal-title') else 'Journal Article'
     
-    # Find DOI for a direct link
     doi = ""
     ext_ids = summary.get('external-ids', {}).get('external-id', [])
     for ext_id in ext_ids:
@@ -38,9 +33,10 @@ for work in data.get('group', []):
 
     safe_slug = clean_slug(title)
     filename = f"{year}-{safe_slug[:50]}.md"
+    
+    # We set these variables so the template can find them
     paper_url = f"https://doi.org/{doi}" if doi else ""
-
-    # Front Matter: This controls the automated citation line
+    
     content = f"""---
 title: "{title}"
 collection: publications
@@ -48,14 +44,11 @@ category: manuscripts
 permalink: /publication/{year}-{safe_slug[:50]}
 date: {year}-01-01
 venue: '{venue}'
+doi: '{doi}'
 paperurl: '{paper_url}'
 ---
 """
-    # Body of the page: Just the link, no extra robotic text
-    if paper_url:
-        content += f"\n[Access Paper]({paper_url})\n"
-
     with open(os.path.join(out_dir, filename), "w", encoding="utf-8") as f:
         f.write(content)
 
-print(f"Success! Refined {len(data.get('group', []))} citations.")
+print(f"Success! Prepared {len(data.get('group', []))} files for icon display.")
