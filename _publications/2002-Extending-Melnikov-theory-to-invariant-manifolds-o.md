@@ -5,7 +5,6 @@ category: manuscripts
 permalink: /publication/2002-Extending-Melnikov-theory-to-invariant-manifolds-o
 date: 2002-01-01
 venue: 'Dynamical Systems'
+doi: '10.1080/14689360210136901'
 paperurl: 'https://doi.org/10.1080/14689360210136901'
 ---
-
-[Access Paper](https://doi.org/10.1080/14689360210136901)

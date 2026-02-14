@@ -5,7 +5,6 @@ category: manuscripts
 permalink: /publication/2020-Slow-Unfoldings-of-Contact-Singularities-in-Singul
 date: 2020-01-01
 venue: 'Journal of Nonlinear Science'
+doi: '10.1007/s00332-020-09647-4'
 paperurl: 'https://doi.org/10.1007/s00332-020-09647-4'
 ---
-
-[Access Paper](https://doi.org/10.1007/s00332-020-09647-4)

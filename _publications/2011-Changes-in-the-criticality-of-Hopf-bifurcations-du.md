@@ -5,7 +5,6 @@ category: manuscripts
 permalink: /publication/2011-Changes-in-the-criticality-of-Hopf-bifurcations-du
 date: 2011-01-01
 venue: 'The Journal of Mathematical Neuroscience'
+doi: '10.1186/2190-8567-1-9'
 paperurl: 'https://doi.org/10.1186/2190-8567-1-9'
 ---
-
-[Access Paper](https://doi.org/10.1186/2190-8567-1-9)

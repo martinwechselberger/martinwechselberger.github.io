@@ -5,7 +5,6 @@ category: manuscripts
 permalink: /publication/2007-Erratum-Ionic-channels-and-conductance-based-model
 date: 2007-01-01
 venue: 'American Journal of Physiology - Regulatory Integrative and Comparative Physiology'
+doi: '10.1152/ajpregu.zh6-5747-corr.2007'
 paperurl: 'https://doi.org/10.1152/ajpregu.zh6-5747-corr.2007'
 ---
-
-[Access Paper](https://doi.org/10.1152/ajpregu.zh6-5747-corr.2007)

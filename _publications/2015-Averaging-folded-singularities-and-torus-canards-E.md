@@ -5,7 +5,6 @@ category: manuscripts
 permalink: /publication/2015-Averaging-folded-singularities-and-torus-canards-E
 date: 2015-01-01
 venue: 'SIAM Journal on Applied Dynamical Systems'
+doi: '10.1137/140981770'
 paperurl: 'https://doi.org/10.1137/140981770'
 ---
-
-[Access Paper](https://doi.org/10.1137/140981770)

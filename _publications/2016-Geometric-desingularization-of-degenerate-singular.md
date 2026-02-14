@@ -5,7 +5,6 @@ category: manuscripts
 permalink: /publication/2016-Geometric-desingularization-of-degenerate-singular
 date: 2016-01-01
 venue: 'Indagationes Mathematicae'
+doi: '10.1016/j.indag.2015.11.005'
 paperurl: 'https://doi.org/10.1016/j.indag.2015.11.005'
 ---
-
-[Access Paper](https://doi.org/10.1016/j.indag.2015.11.005)
