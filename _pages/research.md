@@ -39,4 +39,4 @@ My research program focuses on the development of geometric methods for multi-ti
 ---
 
 ## International Collaboration
-I have been a key collaborator on **four Marsden Grants** (New Zealand), facilitating international excellence in the dynamical systems community and securing approximately NZ$2.1M in collaborative funding.
+I have been a key collaborator on **four Marsden Grants** (New Zealand), facilitating international excellence in the dynamical systems community.
