@@ -9,6 +9,7 @@ if not os.path.exists(out_dir):
     os.makedirs(out_dir)
 
 def clean_slug(text):
+    # Removes LaTeX and special characters to ensure valid URLs
     text = re.sub(r'\$.*?\$', '', text) 
     return re.sub(r'[^a-zA-Z0-9]+', '-', text).strip('-')
 
@@ -34,9 +35,10 @@ for work in data.get('group', []):
     safe_slug = clean_slug(title)
     filename = f"{year}-{safe_slug[:50]}.md"
     
-    # We set these variables so the template can find them
+    # This URL is used by the archive-single.html template to create the DOI icon link
     paper_url = f"https://doi.org/{doi}" if doi else ""
     
+    # We produce clean Front Matter. No extra text is added to the body.
     content = f"""---
 title: "{title}"
 collection: publications
