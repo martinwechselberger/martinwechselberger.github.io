@@ -24,9 +24,9 @@ author_profile: true
 ## Academic Appointments
 * **Associate Professor**, The University of Sydney (2012 – 2014)
 * **Senior Lecturer**, The University of Sydney (2008 – 2011)
-* **Lecturer**, The University of Sydney (2006 – 2007)
-* **Postdoctoral Research Fellow**, Mathematical Biosciences Institute, The Ohio State University, USA (2003 – 2005)
-* **Postdoctoral Research Fellow**, Vienna University of Technology, Austria (1998 – 2002)
+* **Lecturer**, The University of Sydney (2005 – 2007)
+* **Postdoctoral Research Fellow**, Mathematical Biosciences Institute, The Ohio State University, USA (2002 – 2004)
+* **Postdoctoral Research Fellow**, Vienna University of Technology, Austria (2000 – 2001)
 
 ## Honors and Awards
 * **J.D. Crawford Prize** (2017) – Awarded biennially by SIAM for outstanding work on nonlinear science, specifically for breakthrough insights highlighting the importance of canards and mixed-mode oscillations.
