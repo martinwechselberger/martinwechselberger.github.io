@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2016-Geometric-desingularization-of-degenerate-singular
 date: 2016-01-01
-venue: 'Journal Article'
+venue: 'Indagationes Mathematicae'
+paperurl: 'https://doi.org/10.1016/j.indag.2015.11.005'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1016/j.indag.2015.11.005)

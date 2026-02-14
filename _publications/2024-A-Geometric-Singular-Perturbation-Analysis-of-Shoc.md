@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-A-Geometric-Singular-Perturbation-Analysis-of-Shoc
 date: 2024-01-01
-venue: 'Journal Article'
+venue: 'SIAM Journal on Applied Dynamical Systems'
+paperurl: 'https://doi.org/10.1137/23m1591803'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1137/23m1591803)

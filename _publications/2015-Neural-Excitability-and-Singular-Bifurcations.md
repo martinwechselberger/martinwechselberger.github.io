@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2015-Neural-Excitability-and-Singular-Bifurcations
 date: 2015-01-01
-venue: 'Journal Article'
+venue: 'Journal of Mathematical Neuroscience'
+paperurl: 'https://doi.org/10.1186/s13408-015-0029-2'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1186/s13408-015-0029-2)

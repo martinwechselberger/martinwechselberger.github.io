@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2005-Existence-and-bifurcation-of-canards-in-in-the-cas
 date: 2005-01-01
-venue: 'Journal Article'
+venue: 'SIAM Journal on Applied Dynamical Systems'
+paperurl: 'https://doi.org/10.1137/030601995'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1137/030601995)

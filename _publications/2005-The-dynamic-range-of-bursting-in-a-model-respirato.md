@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2005-The-dynamic-range-of-bursting-in-a-model-respirato
 date: 2005-01-01
-venue: 'Journal Article'
+venue: 'SIAM Journal on Applied Dynamical Systems'
+paperurl: 'https://doi.org/10.1137/050625540'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1137/050625540)

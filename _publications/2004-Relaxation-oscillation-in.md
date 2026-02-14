@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2004-Relaxation-oscillation-in
 date: 2004-01-01
-venue: 'Journal Article'
+venue: 'Journal of Differential Equations'
+paperurl: 'https://doi.org/10.1016/j.jde.2003.09.010'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1016/j.jde.2003.09.010)

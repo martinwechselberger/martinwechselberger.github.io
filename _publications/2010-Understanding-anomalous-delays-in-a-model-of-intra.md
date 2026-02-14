@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-Understanding-anomalous-delays-in-a-model-of-intra
 date: 2010-01-01
-venue: 'Journal Article'
+venue: 'Chaos'
+paperurl: 'https://doi.org/10.1063/1.3523264'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1063/1.3523264)

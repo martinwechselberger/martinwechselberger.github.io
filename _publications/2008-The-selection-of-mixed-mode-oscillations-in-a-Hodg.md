@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2008-The-selection-of-mixed-mode-oscillations-in-a-Hodg
 date: 2008-01-01
-venue: 'Journal Article'
+venue: 'Chaos'
+paperurl: 'https://doi.org/10.1063/1.2789564'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1063/1.2789564)

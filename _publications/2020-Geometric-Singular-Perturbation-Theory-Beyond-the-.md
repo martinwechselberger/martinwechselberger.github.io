@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2020-Geometric-Singular-Perturbation-Theory-Beyond-the-
 date: 2020-01-01
-venue: 'Journal Article'
+venue: 'Frontiers in Applied Dynamical Systems: Reviews and Tutorials'
+paperurl: 'https://doi.org/10.1007/978-3-030-36399-4'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1007/978-3-030-36399-4)

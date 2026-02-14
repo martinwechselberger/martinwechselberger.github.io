@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2007-Canards
 date: 2007-01-01
-venue: 'Journal Article'
+venue: 'Scholarpedia'
+paperurl: 'https://doi.org/10.4249/scholarpedia.1356'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.4249/scholarpedia.1356)

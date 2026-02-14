@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2014-A-geometric-understanding-of-how-fast-activating-p
 date: 2014-01-01
-venue: 'Journal Article'
+venue: 'Journal of Computational Neuroscience'
+paperurl: 'https://doi.org/10.1007/s10827-013-0470-8'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1007/s10827-013-0470-8)

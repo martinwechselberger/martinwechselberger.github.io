@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2012-Mixed-mode-oscillations-with-multiple-time-scales
 date: 2012-01-01
-venue: 'Journal Article'
+venue: 'SIAM Review'
+paperurl: 'https://doi.org/10.1137/100791233'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1137/100791233)

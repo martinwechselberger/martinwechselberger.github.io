@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2015-Numerical-computation-of-an-Evans-function-for-tra
 date: 2015-01-01
-venue: 'Journal Article'
+venue: 'Mathematical Biosciences'
+paperurl: 'https://doi.org/10.1016/j.mbs.2015.05.009'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1016/j.mbs.2015.05.009)

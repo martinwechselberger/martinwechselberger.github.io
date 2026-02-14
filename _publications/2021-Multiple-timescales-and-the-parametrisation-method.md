@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2021-Multiple-timescales-and-the-parametrisation-method
 date: 2021-01-01
-venue: 'Journal Article'
+venue: 'Nonlinearity'
+paperurl: 'https://doi.org/10.1088/1361-6544/ac04bf'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1088/1361-6544/ac04bf)

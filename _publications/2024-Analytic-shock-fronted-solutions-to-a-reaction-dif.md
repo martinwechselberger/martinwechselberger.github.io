@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-Analytic-shock-fronted-solutions-to-a-reaction-dif
 date: 2024-01-01
-venue: 'Journal Article'
+venue: 'Studies in Applied Mathematics'
+paperurl: 'https://doi.org/10.1111/sapm.12685'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1111/sapm.12685)

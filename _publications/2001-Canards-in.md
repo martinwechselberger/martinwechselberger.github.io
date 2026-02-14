@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2001-Canards-in
 date: 2001-01-01
-venue: 'Journal Article'
+venue: 'Journal of Differential Equations'
+paperurl: 'https://doi.org/10.1006/jdeq.2001.4001'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1006/jdeq.2001.4001)

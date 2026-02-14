@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-On-the-stability-of-shocks-in-isothermal-black-hol
 date: 2022-01-01
-venue: 'Journal Article'
+venue: 'Monthly Notices of the Royal Astronomical Society'
+paperurl: 'https://doi.org/10.1093/mnras/stac731'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1093/mnras/stac731)

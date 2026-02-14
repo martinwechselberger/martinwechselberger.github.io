@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2013-Multiple-geometric-viewpoints-of-mixed-mode-dynami
 date: 2013-01-01
-venue: 'Journal Article'
+venue: 'SIAM Journal on Applied Dynamical Systems'
+paperurl: 'https://doi.org/10.1137/120892842'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1137/120892842)

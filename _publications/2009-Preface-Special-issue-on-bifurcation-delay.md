@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-Preface-Special-issue-on-bifurcation-delay
 date: 2009-01-01
-venue: 'Journal Article'
+venue: 'Discrete and Continuous Dynamical Systems - Series S'
+paperurl: 'https://doi.org/10.3934/dcdss.2009.2.4i'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.3934/dcdss.2009.2.4i)

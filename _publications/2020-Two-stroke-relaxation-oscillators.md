@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2020-Two-stroke-relaxation-oscillators
 date: 2020-01-01
-venue: 'Journal Article'
+venue: 'Nonlinearity'
+paperurl: 'https://doi.org/10.1088/1361-6544/ab6a77'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1088/1361-6544/ab6a77)

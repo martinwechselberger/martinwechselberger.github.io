@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-Mucus-clears-from-the-trachea-in-a-helix-a-new-twi
 date: 2024-01-01
-venue: 'Journal Article'
+venue: 'Thorax'
+paperurl: 'https://doi.org/10.1136/thorax-2023-221052'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1136/thorax-2023-221052)

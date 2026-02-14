@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2014-Existence-of-traveling-wave-solutions-for-a-model-
 date: 2014-01-01
-venue: 'Journal Article'
+venue: 'SIAM Journal on Applied Dynamical Systems'
+paperurl: 'https://doi.org/10.1137/130923129'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1137/130923129)

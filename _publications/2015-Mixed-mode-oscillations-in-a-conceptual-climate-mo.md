@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2015-Mixed-mode-oscillations-in-a-conceptual-climate-mo
 date: 2015-01-01
-venue: 'Journal Article'
+venue: 'Physica D: Nonlinear Phenomena'
+paperurl: 'https://doi.org/10.1016/j.physd.2014.11.003'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1016/j.physd.2014.11.003)

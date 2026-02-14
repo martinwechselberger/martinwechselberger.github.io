@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2013-Canard-theory-and-excitability
 date: 2013-01-01
-venue: 'Journal Article'
+venue: 'Lecture Notes in Mathematics'
+paperurl: 'https://doi.org/10.1007/978-3-319-03080-7-3'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1007/978-3-319-03080-7-3)

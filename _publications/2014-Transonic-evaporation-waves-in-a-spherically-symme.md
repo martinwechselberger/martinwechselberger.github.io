@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2014-Transonic-evaporation-waves-in-a-spherically-symme
 date: 2014-01-01
-venue: 'Journal Article'
+venue: 'SIAM Journal on Mathematical Analysis'
+paperurl: 'https://doi.org/10.1137/120875363'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1137/120875363)

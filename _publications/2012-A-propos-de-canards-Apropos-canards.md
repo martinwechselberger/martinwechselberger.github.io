@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2012-A-propos-de-canards-Apropos-canards
 date: 2012-01-01
-venue: 'Journal Article'
+venue: 'Transactions of the American Mathematical Society'
+paperurl: 'https://doi.org/10.1090/s0002-9947-2012-05575-9'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1090/s0002-9947-2012-05575-9)

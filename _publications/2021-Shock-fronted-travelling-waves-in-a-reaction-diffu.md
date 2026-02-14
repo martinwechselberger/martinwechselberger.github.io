@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2021-Shock-fronted-travelling-waves-in-a-reaction-diffu
 date: 2021-01-01
-venue: 'Journal Article'
+venue: 'Physica D: Nonlinear Phenomena'
+paperurl: 'https://doi.org/10.1016/j.physd.2021.132916'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1016/j.physd.2021.132916)

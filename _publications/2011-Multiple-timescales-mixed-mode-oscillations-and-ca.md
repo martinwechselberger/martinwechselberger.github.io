@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2011-Multiple-timescales-mixed-mode-oscillations-and-ca
 date: 2011-01-01
-venue: 'Journal Article'
+venue: 'Journal of Nonlinear Science'
+paperurl: 'https://doi.org/10.1007/s00332-011-9096-z'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1007/s00332-011-9096-z)

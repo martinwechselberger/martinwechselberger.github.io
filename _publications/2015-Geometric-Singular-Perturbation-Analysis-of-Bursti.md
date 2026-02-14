@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2015-Geometric-Singular-Perturbation-Analysis-of-Bursti
 date: 2015-01-01
-venue: 'Journal Article'
+venue: 'Mathematical Analysis of Complex Cellular Activity'
+paperurl: 'https://doi.org/10.1007/978-3-319-18114-1_1'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1007/978-3-319-18114-1_1)

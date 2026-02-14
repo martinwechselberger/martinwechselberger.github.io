@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2014-Novel-solutions-for-a-model-of-wound-healing-angio
 date: 2014-01-01
-venue: 'Journal Article'
+venue: 'Nonlinearity'
+paperurl: 'https://doi.org/10.1088/0951-7715/27/12/2975'
 ---
-Automatically synced from ORCID profile 0000-0003-2681-3440.
+
+[Access Paper](https://doi.org/10.1088/0951-7715/27/12/2975)
