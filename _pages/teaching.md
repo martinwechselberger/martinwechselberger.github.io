@@ -5,8 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I coordinate and teach units within the School of Mathematics and Statistics at the University of Sydney, focusing on differential equations, biomathematics, and mathematical modelling.
-
+I coordinate and teach units within the School of Mathematics and Statistics at the University of Sydney.
 ## Current Units
 
 * **MATH3963: Differential Equations and Biomathematics**
