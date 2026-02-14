@@ -14,7 +14,7 @@ My research program focuses on the development of geometric methods for multi-ti
   * **Summary:** This project develops a novel geometric framework for rate-induced tipping (R-tipping) to predict ecosystem collapses and identify early warning signals for climate-related transitions.
 * **Determining endocrine-mediated plastic responses to transient heat waves** (DP250101953)
   * **Role:** Chief Investigator
-  * **Summary:** This interdisciplinary project aims to determine the resilience of animals to heat waves by uncovering endocrine-mediated mechanisms and constructing a novel predictive mathematical model of the environment-endocrine-phenotype axis.
+  * **Summary:** An interdisciplinary project determining animal resilience to heat waves by uncovering endocrine-mediated mechanisms and constructing predictive mathematical models of the environment-endocrine-phenotype axis.
 * **A coordinate-independent theory for multitime-scale dynamical systems** (DP220101817)
   * **Role:** First Investigator (Lead)
   * **Summary:** Formulation of a frame-independent GSPT to analyse systems where standard global timescale splittings are unavailable.
@@ -25,13 +25,13 @@ My research program focuses on the development of geometric methods for multi-ti
 
 * **A Novel Geometric Approach to Shocks in Reaction-Nonlinear Diffusion Models** (DP200102130)
   * **Role:** Lead Investigator
-  * **Summary:** Using geometric methods to explain shock formation in biological and physical reaction-diffusion systems.
-* **Canards and their profound impact on complex rhythmic patterns** (DP180103022)
+  * **Summary:** Developing a geometric framework to explain the existence and stability of shocks in reaction-nonlinear diffusion models using GSPT.
+* **A geometric theory for non-standard relaxation oscillators** (DP180103022)
   * **Role:** Lead Investigator
-  * **Summary:** Analysing the genesis of mixed-mode oscillations (MMOs) and the role of canard solutions in transient dynamics.
+  * **Summary:** This project investigates "non-standard" relaxation oscillators where the classical GSPT framework fails due to the presence of a non-uniform timescale spliting, requiring the development of a non-standard geometric theory.
 * **Geometric methods in mathematical physiology** (Future Fellowship - FT120100309)
   * **Role:** Future Fellow (Lead)
-  * **Summary:** This fellowship supported the development of foundational theories for canards and folded singularities in higher-dimensional systems.
+  * **Summary:** This fellowship supported foundational work in the geometry of canards and folded singularities in higher dimensions.
 * **Mixed-mode oscillations: a geometric multiple time-scale approach** (DP110102775)
   * **Role:** Lead Investigator
   * **Summary:** Mathematical analysis of complex biological rhythms and the interaction between disparate timescales.
