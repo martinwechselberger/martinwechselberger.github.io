@@ -11,11 +11,11 @@
 main:
   - title: "Publications"
     url: /publications/
+  - title: "Research & Grants"
+    url: /research/
   - title: "Talks"
     url: /talks/
   - title: "Teaching"
     url: /teaching/
-  - title: "Research & Grants"
-    url: /research/
   - title: "CV"
     url: /cv/
