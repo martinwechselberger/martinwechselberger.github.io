@@ -20,24 +20,28 @@ I coordinate and teach units within the School of Mathematics and Statistics at 
 
 ### Postdoctoral Fellows
 * **Current**
-  * [Name]
+  * Georgio Hawi
 * **Former**
-  * [Name]
+  * Prannath Moolchand
+  * Eric Hester
+  * Ian Lizarraga
+  * Robert Marangell
 
 ### PhD Students
 * **Current**
-  * [Name]
-* **Former **
-  * [Name]
-  * [Name]
-  * [Name]
-  * [Name]
+  * Matthew Lim
+  * Timothy Lapuz
+* **Former**
+  * Samuel Jelbart
+  * Kerry-Lyn Roberts
+  * John Mitry
+  * Theodore Vo
 
 ### Honours & MMSci Students
 * **Current**
-  * [Name]
-* **Former **
-  * [Name]
-  * [Name]
+  * Rowan Cargill
+* **Former**
+  * Mikaela de Stradis
+  * Xavier Dimos
 
 ---
