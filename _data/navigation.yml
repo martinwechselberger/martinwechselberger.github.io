@@ -13,8 +13,8 @@ main:
     url: /publications/
   - title: "Research & Grants"
     url: /research/
-  - title: "Talks"
-    url: /talks/
+ # - title: "Talks"
+ #   url: /talks/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
