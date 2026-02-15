@@ -17,29 +17,36 @@
 <!-- end custom head snippets -->
 
 <style>
-a.site-title, .site-title, .site-title:visited {
-color: #ff0000 !important;
-text-decoration: none !important;
+/* 1. Force the Site Title to be Red */
+a.site-title, .site-title {
+color: red !important;
 }
 
+/* 2. Completely remove the Blue Bars (Hamburger Menu) */
 .masthead__menu-toggle,
 .greedy-nav__toggle,
-button.greedy-nav__toggle {
+.navicon {
 display: none !important;
 visibility: hidden !important;
 width: 0 !important;
 }
 
-.masthead__inner-wrap .masthead__menu {
-display: block !important;
-}
-
-.masthead__inner-wrap .greedy-nav .visible-links {
+/* 3. Force the Menu Links to stay in a horizontal line */
+.masthead__inner-wrap .greedy-nav {
 display: flex !important;
-visibility: visible !important;
+flex-direction: row !important;
+align-items: center !important;
+width: 100% !important;
 }
 
-.greedy-nav .hidden-links {
-display: none !important;
+.masthead__inner-wrap .visible-links {
+display: flex !important;
+flex-direction: row !important;
+margin-left: 2em !important; /* Creates space between Title and Menu */
+}
+
+.masthead__menu-item {
+display: inline-block !important;
+margin-right: 1.5em !important;
 }
 </style>
