@@ -8,9 +8,9 @@ author_profile: true
 I coordinate and teach units within the School of Mathematics and Statistics at the University of Sydney.
 ## Current Units
 
-* **MATH3963: Differential Equations and Biomathematics**
+* **MATH3963: Nonlinear ODEs with Applications**
   * [Course Page](https://www.sydney.edu.au/units/MATH3963)
-* **MATH3888: Projects in Mathematical Biology**
+* **MATH3888: Projects in Mathematics**
   * [Course Page](https://www.sydney.edu.au/units/MATH3888)
 
 ---
@@ -18,22 +18,17 @@ I coordinate and teach units within the School of Mathematics and Statistics at 
 ## Research Supervision
 
 ### Postdoctoral Fellows
-* **Current**
-  * Georgio Hawi
-* **Former**
   * Prannath Moolchand
   * Eric Hester
   * Ian Lizarraga
   * Robert Marangell
 
 ### PhD Students
-* **Current**
   * Matthew Lim
   * Timothy Lapuz
-* **Former**
-  * Samuel Jelbart
-  * Kerry-Lyn Roberts
-  * John Mitry
-  * Theodore Vo
+  * Samuel Jelbart (2020)
+  * Kerry-Lyn Roberts (2017)
+  * John Mitry (2016)
+  * Theodore Vo (2014)
 
 ---
