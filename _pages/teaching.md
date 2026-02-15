@@ -9,23 +9,25 @@ I coordinate and teach units within the School of Mathematics and Statistics at 
 ## Current Units
 
 * **MATH3963: Nonlinear ODEs with Applications**
-  * [Course Page](https://www.sydney.edu.au/units/MATH3963)
+  [Course Page](https://www.sydney.edu.au/units/MATH3963)
 * **MATH3888: Projects in Mathematics**
-  * [Course Page](https://www.sydney.edu.au/units/MATH3888)
+  [Course Page](https://www.sydney.edu.au/units/MATH3888)
 
 ---
 
 ## Research Supervision
 
 ### Postdoctoral Fellows
-  * Prannath Moolchand
-  * Eric Hester
-  * Ian Lizarraga
-  * Robert Marangell
+  * Prannath Moolchand (2023-2025)
+  * Eric Hester (2022)
+  * Ian Lizarraga (2018-2022)
+  * Robert Marangell (2011-2013)
 
-### PhD Students
+### PhD Students (current)
   * Matthew Lim
   * Timothy Lapuz
+
+### PhD Students (completed)
   * Samuel Jelbart (2020)
   * Kerry-Lyn Roberts (2017)
   * John Mitry (2016)
