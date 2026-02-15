@@ -82,7 +82,7 @@ author_profile: true
   <li>M. Wechselberger, "Mixed-mode oscillations and the folded node", <i>Chaos</i> 18, 015111, 2008. <br>DOI: <a href="https://doi.org/10.1063/1.2831154" class="doi-link">10.1063/1.2831154</a></li>
   <li>J. Rubin and M. Wechselberger, "Giant squid-hidden canard: the 3D geometry of the Hodgkin-Huxley model", <i>Biological Cybernetics</i> 97, 5–32, 2007. <br>DOI: <a href="https://doi.org/10.1007/s00422-007-0153-4" class="doi-link">10.1007/s00422-007-0153-4</a></li>
   <li>M. Wechselberger, "Existence and bifurcation of canards in R3 in the case of a folded node", <i>SIAM Journal on Applied Dynamical Systems</i> 4, 101–139, 2005. <br>DOI: <a href="https://doi.org/10.1137/040605695" class="doi-link">10.1137/040605695</a></li>
-  <li>P. Szmolyan and M. Wechselberger, "Relaxation oscillations in R3", <i>Journal of Differential Equations</i> 163, 1–34, 2004. <br>DOI: <a href="https://doi.org/10.1006/jdeq.2000.3725" class="doi-link">10.1006/jdeq.2000.3725</a></li>
+  <li>P. Szmolyan and M. Wechselberger, "Relaxation oscillations in R3", <i>Journal of Differential Equations</i> 163, 1–34, 2004. <br>DOI: <a href="https://doi.org/10.1006/jdeq.2000.3725" class="doi-link">10.1016/j.jde.2003.09.010</a></li>
   <li>P. Szmolyan and M. Wechselberger, "Canards in R3", <i>Journal of Differential Equations</i> 177, 419–453, 2001. <br>DOI: <a href="https://doi.org/10.1006/jdeq.2001.4001" class="doi-link">10.1006/jdeq.2001.4001</a></li>
 </ol>
 
