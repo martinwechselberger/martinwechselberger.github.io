@@ -3,6 +3,7 @@
 
 # Basic Site Settings
 locale                  : "en-AU"
+minimal_mistakes_skin    : "air" # Add or change this line (air, contrast, or default)
 site_theme              : "default"
 title                   : "Martin Wechselberger"
 title_separator         : "-"
