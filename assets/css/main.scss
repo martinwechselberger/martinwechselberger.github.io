@@ -22,20 +22,20 @@ body {
   background-color: #ffffff !important;
 }
 
+/* 1. HIDE THE MOBILE TOGGLE (BLUE BARS) */
+.masthead__menu-toggle {
+display: none !important;
+}
+
+/* 2. FORCE THE MENU TO SHOW REGARDLESS OF SCREEN SIZE */
+.masthead__menu {
+display: block !important;
+}
+
 .greedy-nav .visible-links {
 display: flex !important;
 visibility: visible !important;
 }
-
-.greedy-nav .hidden-links.hidden {
-display: none !important;
-}
-
-.greedy-nav__toggle {
-display: none !important;
-visibility: hidden !important;
-}
-
 .masthead__inner-navigation {
 flex-basis: 100% !important;
 }
