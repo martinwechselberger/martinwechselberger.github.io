@@ -30,8 +30,6 @@ author_profile: true
 
 <div class="pub-category">Journal Articles</div>
 <ol>
-  <li>M. Wechselberger, "Rate-induced tipping and canards", <i>SIAM Journal on Applied Dynamical Systems</i>, 2026. <br>DOI: <a href="https://doi.org/10.1137/25M1234567" class="doi-link">10.1137/25M1234567</a></li>
-  <li>A. Little and M. Wechselberger, "The geometry of r-tipping", <i>Journal of Nonlinear Science</i>, 2026. <br>DOI: <a href="https://doi.org/10.1007/s00332-025-10123-x" class="doi-link">10.1007/s00332-025-10123-x</a></li>
   <li>B. Hajek, I. Lizarraga, R. Marangell, and M. Wechselberger, "A geometric singular perturbation analysis of shock selection rules in composite regularised reaction-nonlinear diffusion models", <i>SIAM Journal on Applied Dynamical Systems</i> 23, 2099-2137, 2024. <br>DOI: <a href="https://doi.org/10.1137/23M1564344" class="doi-link">10.1137/23M1564344</a></li>
   <li>T. Miller, A. Tam, R. Marangell, M. Wechselberger, and B. Bradshaw-Hajek, "Analytic shock-fronted solutions to a reaction-diffusion equation with negative diffusivity", <i>Studies in Applied Mathematics</i> 153, e12685, 2024. <br>DOI: <a href="https://doi.org/10.1111/sapm.12685" class="doi-link">10.1111/sapm.12685</a></li>
   <li>D. Abelson, J. Di Michael, C. Frater, M. Pearson, R. Russo, M. Wechselberger, A. Cottee, and L. Morgan, "Mucus clears from the trachea in a helix: a new twist to understanding airway diseases", <i>Thorax</i> 79, 607-614, 2024. <br>DOI: <a href="https://doi.org/10.1136/thorax-2023-220704" class="doi-link">10.1136/thorax-2023-220704</a></li>
