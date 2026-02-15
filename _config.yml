@@ -10,6 +10,7 @@ repository: "martinwechselberger/martinwechselberger.github.io"
 
 # Masthead Navigation
 masthead_nav: "main"
+minimal_mistakes_external_links: true
 
 # Site Author
 author:
