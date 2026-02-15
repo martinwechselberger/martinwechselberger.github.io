@@ -6,7 +6,6 @@ locale                  : "en-AU"
 remote_theme            : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin   : "air" # Add or change this line (air, contrast, or default)
 site_theme              : "default"
-masthead_nav            : "main"
 title                   : "Martin Wechselberger"
 title_separator         : "-"
 name                    : &name "Martin Wechselberger"
@@ -14,6 +13,13 @@ description             : &description "Professor of Applied Mathematics at the 
 url                     : "https://martinwechselberger.github.io"
 baseurl                 : "" 
 repository              : "martinwechselberger/martinwechselberger.github.io"
+
+# Header
+header:
+  nav: "main"
+
+# Masthead
+masthead_nav: "main"
 
 # Site Author
 author:
