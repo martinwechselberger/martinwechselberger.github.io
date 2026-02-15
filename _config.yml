@@ -84,4 +84,4 @@ plugins:
 timezone: Australia/Sydney
 
 sass:
-style: compressed
+  style: compressed
