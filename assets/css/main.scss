@@ -1,33 +1,19 @@
----
----
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'air' }}";
 @import "minimal-mistakes";
 
-/* FORCE DESKTOP MENU: This kills the 'weird bars' on large screens */
-@media (min-width: 64em) {
-  .masthead__menu {
-    display: block !important;
-  }
-  .masthead__menu-item {
-    display: inline-block !important;
-  }
-  .masthead__menu-toggle {
-    display: none !important; /* Hides the blue bars/toggle */
-  }
+.site-title {
+color: red !important;
 }
 
-/* Ensure the background is white */
-body {
-  background-color: #ffffff !important;
+.masthead__menu-toggle,
+.greedy-nav__toggle {
+display: none !important;
 }
 
-.site-title { color: red !important; }
-
-.masthead__menu-toggle, .greedy-nav__toggle { display: none !important; visibility: hidden !important; }
-
-.masthead__menu { display: block !important; }
-
-.greedy-nav .visible-links { display: flex !important; visibility: visible !important; }
-
-.masthead__menu-item { display: inline-block !important; }
+.masthead__menu {
+display: block !important;
+}
+.greedy-nav .visible-links {
+display: flex !important;
+visibility: visible !important;
+}
