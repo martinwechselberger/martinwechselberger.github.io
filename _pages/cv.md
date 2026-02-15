@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 ## Current Position
-**Professor of Applied Mathematics** School of Mathematics and Statistics, The University of Sydney  
-*January 2015 – Present*
+**Professor of Applied Mathematics** School of Mathematics and Statistics, The University of Sydney  (January 2015 – Present)
 
 ## Academic Leadership & Service
 * **Chair**, SIAM Activity Group on Dynamical Systems (2026 – Present)
