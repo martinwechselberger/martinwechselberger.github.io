@@ -1,83 +1,32 @@
-# Welcome to Martin Wechselberger's Academic Website Configuration
-# Prepared with Australian English conventions
-
 # Basic Site Settings
-locale                  : "en-AU"
-remote_theme            : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin   : "air" # Add or change this line (air, contrast, or default)
-site_theme              : "default"
-title                   : "Martin Wechselberger"
-title_separator         : "-"
-name                    : &name "Martin Wechselberger"
-description             : &description "Professor of Applied Mathematics at the University of Sydney. Specialising in Nonlinear Dynamics and Geometric Singular Perturbation Theory."
-url                     : "https://martinwechselberger.github.io"
-baseurl                 : "" 
-repository              : "martinwechselberger/martinwechselberger.github.io"
+locale: "en-AU"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
+title: "Martin Wechselberger"
+title_separator: "-"
+url: "https://martinwechselberger.github.io"
+baseurl: ""
+repository: "martinwechselberger/martinwechselberger.github.io"
 
-# Header
-header:
-  nav: "main"
-
-# Masthead
+# Masthead Navigation
 masthead_nav: "main"
 
 # Site Author
 author:
-  avatar           : "headshot.jpg" # Upload your photo as profile.png to the /images/ folder
-  name             : "Martin Wechselberger"
-  bio              : "Professor"
-  location         : "Sydney, Australia"
-  employer         : "University of Sydney"
-  email            : "martin.wechselberger@sydney.edu.au"
-
-  # Academic websites - UPDATED LINKS
-  googlescholar    : "https://scholar.google.com/citations?user=S--GqM-txV8C&hl=en"
-  orcid            : "https://orcid.org/0000-0003-2681-3440"
-
-# Publication Category 
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
-
-# Analytics
-analytics:
-  provider                : "false" 
+  avatar: "headshot.jpg"
+  name: "Martin Wechselberger"
+  bio: "Professor"
+  location: "Sydney, Australia"
+  employer: "University of Sydney"
+  email: "martin.wechselberger@sydney.edu.au"
+  googlescholar: "https://scholar.google.com/citations?user=S--GqM-txV8C&hl=en"
+  orcid: "https://orcid.org/0000-0003-2681-3440"
 
 # Reading Files
 include:
   - .htaccess
   - _pages
   - files
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .github
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - node_modules
-  - package.json*
-  - Rakefile
-  - README
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
@@ -86,26 +35,12 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-# Markdown Processing (Enables LaTeX support)
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
 # Collections
 collections:
   teaching:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -132,23 +67,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
 
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
-
-whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
