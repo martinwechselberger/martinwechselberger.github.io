@@ -2,7 +2,7 @@
 locale: "en-AU"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
-title: "Martin Wechselberger"
+title: "About"
 title_separator: "-"
 url: "https://martinwechselberger.github.io"
 baseurl: ""
