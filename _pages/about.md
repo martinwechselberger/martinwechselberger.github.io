@@ -8,7 +8,7 @@ author_profile: true
 # Martin Wechselberger
 ### Professor of Applied Mathematics, University of Sydney
 
-I am an applied mathematician with expertise in the fields of **dynamical systems** and, in particular, **geometric singular perturbation theory **. My research focuses on developing rigorous analytical and geometric tools to understand complex rhythms and patterns in multi-(time)scale systems, with applications in **mathematical physiology** and **ecology**.
+I am an applied mathematician with expertise in the fields of **dynamical systems** and, in particular, **geometric singular perturbation theory**. My research focuses on developing rigorous analytical and geometric tools to understand complex rhythms and patterns in multi-(time)scale systems, with applications in **mathematical physiology** and **ecology**.
 
 In 2017, I was awarded the **J.D. Crawford Prize** for my breakthrough insights into the importance of **canards** and **mixed-mode oscillations (MMOs)**.
 
