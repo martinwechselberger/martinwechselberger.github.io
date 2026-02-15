@@ -1,5 +1,6 @@
 # Basic Site Settings
 locale: "en-AU"
+words_per_minute: 200
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
 title: "About"
