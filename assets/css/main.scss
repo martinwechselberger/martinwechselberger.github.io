@@ -21,3 +21,8 @@
 body {
   background-color: #ffffff !important;
 }
+
+.masthead__inner-navigation { display: flex !important; }
+.visible-links { display: flex !important; visibility: visible !important; opacity: 1 !important; }
+.masthead__menu-item { display: inline-block !important; visibility: visible !important; }
+.greedy-nav__toggle, .masthead__menu-toggle { display: none !important; }
