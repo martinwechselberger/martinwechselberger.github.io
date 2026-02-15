@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About"
+title: "Martin Wechselberger"
 permalink: /
 author_profile: true
 ---
