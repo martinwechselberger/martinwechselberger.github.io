@@ -18,7 +18,7 @@ author_profile: true
 
 <div class="pub-category">Books</div>
 <ol>
-  <li>M. Wechselberger, <i>Geometric singular perturbation theory beyond the standard form</i>, Frontiers in Applied Dynamics: Reviews and Tutorials 6, Springer, 2020. <br>DOI: <a href="https://doi.org/10.1007/978-3-030-51111-1" class="doi-link">10.1007/978-3-030-51111-1</a></li>
+  <li>M. Wechselberger, <i>Geometric singular perturbation theory beyond the standard form</i>, Frontiers in Applied Dynamics: Reviews and Tutorials 6, Springer, 2020. <br>DOI: <a href="https://doi.org/10.1007/978-3-030-36399-4" class="doi-link">10.1007/978-3-030-36399-4</a></li>
 </ol>
 
 <div class="pub-category">Book Chapters</div>
