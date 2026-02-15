@@ -1,3 +1,6 @@
+---
+---
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'air' }}";
 @import "minimal-mistakes";
 
@@ -5,14 +8,14 @@
 color: red !important;
 }
 
-.masthead__menu-toggle,
-.greedy-nav__toggle {
+.masthead__menu-toggle {
 display: none !important;
 }
 
 .masthead__menu {
 display: block !important;
 }
+
 .greedy-nav .visible-links {
 display: flex !important;
 visibility: visible !important;
