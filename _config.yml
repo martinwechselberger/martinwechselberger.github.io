@@ -29,6 +29,8 @@ include:
   - .htaccess
   - _pages
   - files
+  - assets
+  - _data
 
 # Conversion
 markdown: kramdown
@@ -80,3 +82,6 @@ plugins:
   - jemoji
 
 timezone: Australia/Sydney
+
+sass:
+style: compressed
