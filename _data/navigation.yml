@@ -1,8 +1,7 @@
-# main links
 main:
   - title: "Publications"
     url: /publications/
-  - title: "Research & Grants"
+  - title: "Research"
     url: /research/
   - title: "Teaching"
     url: /teaching/
