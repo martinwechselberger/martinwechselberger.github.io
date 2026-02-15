@@ -17,8 +17,29 @@
 <!-- end custom head snippets -->
 
 <style>
-.site-title { color: red !important; }
-.masthead__menu-toggle, .greedy-nav__toggle { display: none !important; }
-.masthead__menu { display: block !important; }
-.greedy-nav .visible-links { display: flex !important; visibility: visible !important; }
+a.site-title, .site-title, .site-title:visited {
+color: #ff0000 !important;
+text-decoration: none !important;
+}
+
+.masthead__menu-toggle,
+.greedy-nav__toggle,
+button.greedy-nav__toggle {
+display: none !important;
+visibility: hidden !important;
+width: 0 !important;
+}
+
+.masthead__inner-wrap .masthead__menu {
+display: block !important;
+}
+
+.masthead__inner-wrap .greedy-nav .visible-links {
+display: flex !important;
+visibility: visible !important;
+}
+
+.greedy-nav .hidden-links {
+display: none !important;
+}
 </style>
