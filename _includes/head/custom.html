@@ -17,44 +17,48 @@
 <!-- end custom head snippets -->
 
 <style>
-a.site-title,
-.site-title,
-.masthead__menu-item--lg a,
-.masthead__menu-item--lg a:visited {
+/* 1. The Logo Area (About) */
+.masthead__menu-item--lg {
+position: absolute !important;
+left: 0 !important;
+font-weight: bold !important;
 color: red !important;
 }
 
-a.site-title:hover,
-.masthead__menu-item--lg a:hover {
+.masthead__menu-item--lg a {
 color: red !important;
-opacity: 1 !important;
 }
 
-/* 2. Completely remove the Blue Bars (Hamburger Menu) */
-.masthead__menu-toggle,
-.greedy-nav__toggle,
-.navicon {
-display: none !important;
-visibility: hidden !important;
-width: 0 !important;
+/* 2. The Main Header Container /
+.masthead__inner-wrap {
+position: relative !important;
+display: flex !important;
+justify-content: flex-end !important; / Pushes the REST of the menu to the right */
+align-items: center !important;
+min-height: 3em !important;
 }
 
-/* 3. Force the Menu Links to stay in a horizontal line */
+/* 3. The Menu Items (Publications, Research, etc.) */
 .masthead__inner-wrap .greedy-nav {
 display: flex !important;
-flex-direction: row !important;
-align-items: center !important;
-width: 100% !important;
+width: auto !important;
 }
 
-.masthead__inner-wrap .visible-links {
+.visible-links {
 display: flex !important;
 flex-direction: row !important;
-margin-left: 2em !important; /* Creates space between Title and Menu */
+margin: 0 !important;
+padding: 0 !important;
+list-style: none !important;
 }
 
-.masthead__menu-item {
-display: inline-block !important;
-margin-right: 1.5em !important;
+.masthead__menu-item:not(.masthead__menu-item--lg) {
+margin-left: 1.5em !important;
+font-weight: normal !important;
+}
+
+/* 4. Ensure Blue Bars stay dead */
+.masthead__menu-toggle, .greedy-nav__toggle, .navicon {
+display: none !important;
 }
 </style>
