@@ -23,13 +23,6 @@ My work addresses the challenge of analysing multiple timescale problems "beyond
 
 ---
 
-## Current Research Projects
-* **Geometric methods to detect rate-induced tipping events:** ARC Discovery Project (DP260100522).
-* **A coordinate-independent theory for multitime-scale dynamical systems:** ARC Discovery Project (DP220101817).
-* **A Novel Geometric Approach to Shocks in Reaction-Nonlinear Diffusion Models:** ARC Discovery Project (DP200102130).
-
----
-
 ## Academic Leadership
 I am part of the **Sydney Dynamics Group (SDG)** and serve as a Professor in the [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/) at the University of Sydney. My research program has been consistently supported by the **Australian Research Council (ARC)**, including a prestigious **Future Fellowship** and multiple **Discovery Projects**.
 
@@ -37,16 +30,6 @@ I maintain a global collaborative network, including frequent partnerships with 
 
 ---
 
-## Teaching & Mentoring
-I have supervised many honours, MMSci and PhD students to completion.
-
-**Current Units:**
-* **MATH3963:** Differential Equations and Biomaths (Advanced)
-* **MATH3888:** Projects in Mathematics
+For a full list of publications, grants, and academic appointments, please see my [CV](/cv/).
 
 ---
-
-## Contact
-**Office:** Carslaw Building, Room 628
-**Email:** martin.wechselberger [at] sydney.edu.au
-**Address:** School of Mathematics and Statistics F07, University of Sydney, NSW 2006, Australia
