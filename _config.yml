@@ -30,6 +30,7 @@ include:
   - _pages
   - files
   - _data
+  - assets
 
 # Conversion
 markdown: kramdown
