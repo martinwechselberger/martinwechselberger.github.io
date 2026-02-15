@@ -22,7 +22,20 @@ body {
   background-color: #ffffff !important;
 }
 
-.masthead__inner-navigation { display: flex !important; }
-.visible-links { display: flex !important; visibility: visible !important; opacity: 1 !important; }
-.masthead__menu-item { display: inline-block !important; visibility: visible !important; }
-.greedy-nav__toggle, .masthead__menu-toggle { display: none !important; }
+.greedy-nav .visible-links {
+display: flex !important;
+visibility: visible !important;
+}
+
+.greedy-nav .hidden-links.hidden {
+display: none !important;
+}
+
+.greedy-nav__toggle {
+display: none !important;
+visibility: hidden !important;
+}
+
+.masthead__inner-navigation {
+flex-basis: 100% !important;
+}
