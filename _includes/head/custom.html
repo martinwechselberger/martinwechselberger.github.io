@@ -66,24 +66,27 @@ clip-path: none !important;
 overflow: hidden !important;
 }
 
-/* Set a consistent, professional font size for all page content */
+/* Consistent academic font sizing across all pages */
 .page__content {
-font-size: 0.95rem !important;
-line-height: 1.6 !important;
+font-size: 0.9rem !important;
+line-height: 1.55 !important;
+color: #333 !important; / Softens the black slightly for better readability */
 }
 
-/* Ensure list items (like your publications) match exactly */
+/* Force all paragraphs and list items to match */
+.page__content p,
 .page__content li,
-.page__content p {
-font-size: 0.95rem !important;
+.page__content div {
+font-size: 0.9rem !important;
 }
 
-/* Adjust headings so they aren't overwhelmingly large */
+/* Scale down headers proportionately */
 .page__content h2 {
-font-size: 1.4rem !important;
+font-size: 1.3rem !important;
+margin-top: 1.5em !important;
 }
 
 .page__content h3 {
-font-size: 1.2rem !important;
+font-size: 1.1rem !important;
 }
 </style>
