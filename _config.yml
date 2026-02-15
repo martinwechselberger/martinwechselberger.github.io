@@ -29,7 +29,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - assets/css/main.scss
   - _data
 
 # Conversion
