@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research program focuses on the development of geometric methods for multi-timescale dynamical systems. By combining **Geometric Singular Perturbation Theory (GSPT)** with techniques from algebraic geometry (blow-up) and non-autonomous dynamics, I aim to uncover the mechanisms behind complex rhythms and critical transitions in nature.
+My research program focuses on the development of geometric methods for multi-timescale dynamical systems. By combining **Geometric Singular Perturbation Theory (GSPT)** with techniques from algebraic and differetial geometry and non-autonomous dynamics, I aim to uncover the mechanisms behind complex rhythms and critical transitions in nature.
 
 ## Current Research Grants
 
@@ -15,9 +15,9 @@ My research program focuses on the development of geometric methods for multi-ti
 * **Determining endocrine-mediated plastic responses to transient heat waves** (DP250101953)
   * **Role:** Chief Investigator
   * **Summary:** An interdisciplinary project determining animal resilience to heat waves by uncovering endocrine-mediated mechanisms and constructing predictive mathematical models of the environment-endocrine-phenotype axis.
-* **A coordinate-independent theory for multitime-scale dynamical systems** (DP220101817)
+* **A coordinate-independent theory for multiple time-scale dynamical systems** (DP220101817)
   * **Role:** First Investigator (Lead)
-  * **Summary:** Formulation of a frame-independent GSPT to analyse systems where standard global timescale splittings are unavailable.
+  * **Summary:** Formulation of a coordinate-independent GSPT to analyse systems where standard global timescale splittings are unavailable.
 
 ---
 
@@ -28,13 +28,13 @@ My research program focuses on the development of geometric methods for multi-ti
   * **Summary:** Developing a geometric framework to explain the existence and stability of shocks in reaction-nonlinear diffusion models using GSPT.
 * **A geometric theory for non-standard relaxation oscillators** (DP180103022)
   * **Role:** Lead Investigator
-  * **Summary:** This project investigates "non-standard" relaxation oscillators where the classical GSPT framework fails due to the presence of a non-uniform timescale spliting, requiring the development of a non-standard geometric theory.
+  * **Summary:** This project investigates "non-standard" relaxation oscillators where the classical GSPT framework fails due to the presence of a non-uniform timescale spliting.
 * **Geometric methods in mathematical physiology** (Future Fellowship - FT120100309)
   * **Role:** Future Fellow (Lead)
-  * **Summary:** This fellowship supported foundational work in the geometry of canards and folded singularities in higher dimensions.
-* **Mixed-mode oscillations: a geometric multiple time-scale approach** (DP110102775)
+  * **Summary:** This fellowship supported foundational work in the geometry of canards and folded singularities in arbitrary dimensions.
+* **A geometric theory for travelling waves in advection-reaction-diffusion models** (DP110102775)
   * **Role:** Lead Investigator
-  * **Summary:** Mathematical analysis of complex biological rhythms and the interaction between disparate timescales.
+  * **Summary:** Mathematical analysis of complex cell migration patterns with sharp interfaces by dentifying geometric features of such multiple scales problems.
 
 ---
 
