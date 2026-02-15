@@ -38,8 +38,9 @@ author_profile: true
 * **EQUADIFF 2019**, Leiden, The Netherlands (July 2019)
 * **ANZIAM 2019**, Nelson, New Zealand (February 2019)
 
-## Major Research Funding (Lead Investigator)
+## Major Research Funding
 * **ARC Discovery Project (DP260100522)**: Geometric methods for rate-induced tipping (Lead CI).
+* **ARC Discovery Project (DP250101953)**: Determining endocrine-mediated plastic responses to transient heat waves  (co-CI) 
 * **ARC Discovery Project (DP220101817)**: A coordinate-independent theory for multi time-scale dynamical systems (Lead CI).
 * **ARC Discovery Project (DP200102130)**: The geometry of shock waves in reaction-nonlinear diffusion models (Lead CI).
 * **ARC Discovery Project (DP180103022)**: A geometric theory for non-standard relaxation oscillators (Lead CI).
