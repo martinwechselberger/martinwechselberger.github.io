@@ -31,6 +31,3 @@ I maintain a global collaborative network, including frequent partnerships with 
 
 ---
 
-For a full list of publications, grants, and academic appointments, please see my [CV](/cv/).
-
----
