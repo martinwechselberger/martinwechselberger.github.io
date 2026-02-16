@@ -16,15 +16,16 @@ In 2017, I was awarded the **J.D. Crawford Prize** for my breakthrough insights 
 ## Research Focus
 My work addresses the challenge of analysing multiple timescale problems "beyond the standard form" where traditional splitting techniques fail. Current research highlights include:
 
+* **Geometric Singular Perturbation Theory (GSPT):** Advancing coordinate-independent methods and higher-order averaging to resolve hidden timescale structures.
 * **Canard Theory:** Proving the existence and bifurcation of exceptional solutions that shape transient dynamics in arbitrary dimensions.
 * **Rate-Induced Tipping (R-tipping):** Developing a novel geometric framework to predict "tipping points" in systems subject to environmental change, such as ecosystem collapses and climate events.
 * **Mathematical Physiology:** Providing widely accepted explanations for complex oscillatory patterns in neural and neuroendocrine models.
-* **Geometric Singular Perturbation Theory (GSPT):** Advancing coordinate-independent methods and higher-order averaging to resolve hidden timescale structures.
+
 
 ---
 
 ## Academic Leadership
-I am part of the **Sydney Dynamics Group (SDG)** and serve as a Professor in the [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/) at the University of Sydney. My research program has been consistently supported by the **Australian Research Council (ARC)**, including a prestigious **Future Fellowship** and multiple **Discovery Projects**.
+I am part of the [Sydney Dynamics Group (SDG)]((https://www.maths.usyd.edu.au/SDG/)) and serve as a Professor in the [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/) at the University of Sydney. My research program has been consistently supported by the **Australian Research Council (ARC)**, including a prestigious **Future Fellowship** and multiple **Discovery Projects**.
 
 I maintain a global collaborative network, including frequent partnerships with researchers in the USA, EU, and New Zealand.
 
