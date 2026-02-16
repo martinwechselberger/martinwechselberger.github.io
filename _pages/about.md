@@ -25,7 +25,7 @@ My work addresses the challenge of analysing multiple timescale problems "beyond
 ---
 
 ## Academic Leadership
-I am part of the [Sydney Dynamics Group (SDG)]((https://www.maths.usyd.edu.au/SDG/)) and serve as a Professor in the [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/) at the University of Sydney. My research program has been consistently supported by the **Australian Research Council (ARC)**, including a prestigious **Future Fellowship** and multiple **Discovery Projects**.
+I am part of the [Sydney Dynamics Group (SDG)](https://www.maths.usyd.edu.au/SDG/) and serve as a Professor in the [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/) at the University of Sydney. My research program has been consistently supported by the **Australian Research Council (ARC)**, including a prestigious **Future Fellowship** and multiple **Discovery Projects**.
 
 I maintain a global collaborative network, including frequent partnerships with researchers in the USA, EU, and New Zealand.
 
