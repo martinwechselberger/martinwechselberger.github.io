@@ -8,10 +8,8 @@ author_profile: true
 I coordinate and teach units within the School of Mathematics and Statistics at the University of Sydney.
 ## Current Units
 
-* **MATH3963: Nonlinear ODEs with Applications**
-  [Course Page](https://www.sydney.edu.au/units/MATH3963)
-* **MATH3888: Projects in Mathematics**
-  [Course Page](https://www.sydney.edu.au/units/MATH3888)
+* **MATH3963:** [Nonlinear ODEs with Applications](https://www.sydney.edu.au/units/MATH3963)
+* **MATH3888:** [Projects in Mathematics](https://www.sydney.edu.au/units/MATH3888)
 
 ---
 
