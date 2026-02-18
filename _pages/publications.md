@@ -13,7 +13,7 @@ author_profile: true
   
   /* Book Layout Styles */
   .book-container { display: flex; align-items: flex-start; gap: 15px; margin-bottom: 10px; list-style-type: none; }
-  .book-cover { width: 95px; height: auto; border: 1px solid #ddd; border-radius: 2px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); }
+  .book-cover { width: 99px; height: auto; border: 1px solid #ddd; border-radius: 2px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); }
   .book-info { flex: 1; }
   
   ol { margin-left: 1.5em; padding-left: 0; }
