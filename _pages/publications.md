@@ -10,6 +10,12 @@ author_profile: true
   .pub-category { font-size: 1.1em; font-weight: bold; margin-top: 25px; border-bottom: 2px solid #333; padding-bottom: 5px; color: #000; }
   .doi-link { color: #2980b9; text-decoration: none; font-family: "Courier New", Courier, monospace; font-size: 0.9em; }
   .doi-link:hover { text-decoration: underline; }
+  
+  /* Book Layout Styles */
+  .book-container { display: flex; align-items: flex-start; gap: 15px; margin-bottom: 10px; }
+  .book-cover { width: 80px; height: auto; border: 1px solid #ddd; border-radius: 2px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); }
+  .book-info { flex: 1; }
+  
   ol { margin-left: 1.5em; padding-left: 0; }
   li { margin-bottom: 10px; }
 </style>
@@ -18,7 +24,13 @@ author_profile: true
 
 <div class="pub-category">Books</div>
 <ol>
-  <li>M. Wechselberger, <i>Geometric singular perturbation theory beyond the standard form</i>, Frontiers in Applied Dynamical Systems: Reviews and Tutorials 6, Springer, Cham, 2020. <br>DOI: <a href="https://doi.org/10.1007/978-3-030-36399-4" class="doi-link">10.1007/978-3-030-36399-4</a></li>
+  <li class="book-container">
+    <img src="/assets/images/book-cover.jpg" alt="Book Cover" class="book-cover">
+    <div class="book-info">
+      M. Wechselberger, <i>Geometric singular perturbation theory beyond the standard form</i>, Frontiers in Applied Dynamical Systems: Reviews and Tutorials 6, Springer, Cham, 2020.
+      <br>DOI: <a href="https://doi.org/10.1007/978-3-030-36399-4" class="doi-link">10.1007/978-3-030-36399-4</a>
+    </div>
+  </li>
 </ol>
 
 <div class="pub-category">Book Chapters</div>
