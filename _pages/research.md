@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research program focuses on the development of geometric methods for multi-timescale dynamical systems. By combining **Geometric Singular Perturbation Theory (GSPT)** with techniques from algebraic and differetial geometry and non-autonomous dynamics, I aim to uncover the mechanisms behind complex rhythms and critical transitions in nature.
+My research program focuses on the development of geometric methods for multi-timescale dynamical systems. By combining **Geometric Singular Perturbation Theory (GSPT)** with techniques from algebraic and differetial geometry, I aim to uncover the mechanisms behind complex rhythms and critical transitions in nature.
 
 ## Current Research Grants
 
