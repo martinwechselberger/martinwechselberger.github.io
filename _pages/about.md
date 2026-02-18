@@ -19,7 +19,7 @@ My work addresses the challenge of analysing multiple timescale problems "beyond
 * **Geometric Singular Perturbation Theory (GSPT):** Advancing coordinate-independent methods and higher-order averaging to resolve hidden timescale structures.
 * **Canard Theory:** Proving the existence and bifurcation of exceptional solutions that shape transient dynamics in arbitrary dimensions.
 * **Rate-Induced Tipping (R-tipping):** Developing a novel geometric framework to predict "tipping points" in systems subject to environmental change, such as ecosystem collapses and climate events.
-* **Mathematical Physiology:** Providing widely accepted explanations for complex oscillatory patterns in neural and neuroendocrine models.
+* **Mathematical Physiology:** Providing widely accepted explanations for complex oscillatory patterns and threshold phenomena in neural and neuroendocrine models.
 
 
 ---
