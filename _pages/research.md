@@ -39,4 +39,9 @@ My research program focuses on the development of geometric methods for multi-ti
 ---
 
 ## International Collaboration
-I have been a key collaborator on **four Marsden Grants** (New Zealand), facilitating international excellence in the dynamical systems community.
+I have been a key collaborator on **four Marsden Grants** (New Zealand), facilitating international excellence in the dynamical systems community through long-standing partnerships with the University of Auckland (Vivien Kirk, James Sneyd).
+
+* **Modelling calcium dynamics in living animals: multiple time and space scales in theory and practice** (20-UOA-074)
+* **Surprisingly slow dynamics in calcium models: where are the slow time scales?** (15-UOA-188)
+* **Dynamics of multiscale excitable systems: applications to calcium dynamics and neuroscience** (11-UOA-113)
+* **Designing experiments using mathematics: nonlinear dynamics and calcium oscillations** (08-UOA-028)
