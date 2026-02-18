@@ -86,7 +86,7 @@ author_profile: true
 
 <div class="pub-category">Editorials</div>
 <ol>
-  <li>T. J. Kaper, B. Krauskopf, H. M. Osinga, and M. Wechselberger, "New developments in dynamical systems arising from the biosciences", <i>Discrete Contin. Dyn. Syst.</i> 32(8), i–iii, 2012. <br>DOI: <a href="https://doi.org/10.3934/dcds.2012.32.8i" class="doi-link">10.3934/dcds.2012.32.8i</a></li>
+  <li>T. J. Kaper, B. Krauskopf, H. M. Osinga, and M. Wechselberger, "Preface: New developments in dynamical systems arising from the biosciences", <i>Discrete Contin. Dyn. Syst.</i> 32(8), i–iii, 2012. <br>DOI: <a href="https://doi.org/10.3934/dcds.2012.32.8i" class="doi-link">10.3934/dcds.2012.32.8i</a></li>
   <li>P. de Maesschalck, F. Dumortier, and M. Wechselberger, "Preface: Special issue on bifurcation delay", <i>Discrete Contin. Dyn. Syst. Ser. S</i> 2(4), i–iii, 2009. <br>DOI: <a href="https://doi.org/10.3934/dcdss.2009.2.4i" class="doi-link">10.3934/dcdss.2009.2.4i</a></li>
 </ol>
 
