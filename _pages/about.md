@@ -7,7 +7,7 @@ author_profile: true
 
 ### Professor of Applied Mathematics, University of Sydney
 
-I am an applied mathematician with expertise in the fields of **dynamical systems** and, in particular, **geometric singular perturbation theory**. My research focuses on developing rigorous analytical and geometric tools to understand complex rhythms, patterns and threshold phenomena in multi-(time)scale systems, with applications in **mathematical physiology** and **ecology**.
+I am an applied mathematician with expertise in the fields of **dynamical systems** and, in particular, **geometric singular perturbation theory**. My research focuses on developing rigorous analytical and geometric tools to understand complex rhythms, patterns and threshold phenomena in multi-(time)scale systems, with applications in **mathematical physiology**, ecology and other sciences.
 
 In 2017, I was awarded the [**J.D. Crawford Prize**](https://www.siam.org/programs-initiatives/prizes-awards/activity-group-prizes/j-d-crawford-prize/) "for breakthrough insights, highlighting the importance of **canards** and **mixed-mode oscillations (MMOs)**, that have applications to neuroscience and open up new fields of research for dynamical systems with multiple time-scales."
 
