@@ -5,7 +5,7 @@ permalink: /workshop/
 author_profile: true
 ---
 
-The **Sydney Dynamics Group (SDG)** workshops were initiated in 2014 by Martin Wechselberger as part of my **ARC Future Fellowship (FT120100309)**. This series was established to foster a collaborative environment for researchers in dynamical systems, providing a platform for discussing both foundational theory and modern applications.
+The **Sydney Dynamics Group (SDG)** workshops were initiated in 2014 by me as part of my **ARC Future Fellowship (FT120100309)**. This series was established to foster a collaborative environment for researchers in dynamical systems, providing a platform for discussing both foundational theory and modern applications.
 
 ## List of Workshops
 
