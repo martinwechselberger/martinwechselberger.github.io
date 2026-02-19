@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "SDG Workshops"
-permalink: /workshops/
+permalink: /workshop/
 author_profile: true
 ---
 
