@@ -3,6 +3,8 @@ main:
     url: /publications/
   - title: "Research"
     url: /research/
+  - title: "SDG workshops"
+    url: /workshop/
   - title: "CV"
     url: /cv/
   - title: "Teaching"
