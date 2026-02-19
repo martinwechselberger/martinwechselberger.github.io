@@ -5,13 +5,16 @@ permalink: /workshop/
 author_profile: true
 ---
 
-The **Sydney Dynamics Group (SDG)** workshops were initiated in 2014 by Martin Wechselberger as part of my **ARC Future Fellowship (FT120100309)**. This series was established to foster a collaborative environment for researchers in dynamical systems, providing a platform for discussing both foundational theory and modern applications.
+The **Sydney Dynamics Group (SDG)** workshops were initiated in 2014 by Martin Wechselberger as part of his **ARC Future Fellowship (FT120100309)**. This series was established to foster a collaborative environment for researchers in dynamical systems, providing a platform for discussing both foundational theory and modern applications.
 
 ## List of Workshops
 
 * **[SDG workshop: Dynamical Systems - Theory and Application](https://www.maths.usyd.edu.au/SDG/Kioloa2025/)**
   * **Date:** 10–14 November 2025
   * **Location:** Kioloa, NSW
+* **[SDG workshop: Dynamical Systems - Theory and Application](https://www.maths.usyd.edu.au/SDG/JervisBay2023/)**
+  * **Date:** 13–17 November 2023
+  * **Location:** Jervis Bay, NSW
 * **[SDG workshop: Dynamical Systems in NZ](https://www.maths.usyd.edu.au/SDG/Castaways2022/)**
   * **Date:** 14–18 November 2022
   * **Location:** Castaways, Karioitahi Beach, NZ
