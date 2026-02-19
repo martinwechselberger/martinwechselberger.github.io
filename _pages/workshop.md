@@ -9,7 +9,7 @@ The **Sydney Dynamics Group (SDG)** workshops were initiated in 2014 by me as pa
 
 ## List of Workshops
 
-* **[SDG workshop: Dynamical Systems - Theory and Application]**
+* **SDG workshop: Dynamical Systems - Theory and Application**
   * **Date:** 10–14 November 2025
   * **Location:** Kioloa, NSW
   * **Organiser:** Gary Froyland, UNSW
