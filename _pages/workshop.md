@@ -9,6 +9,10 @@ The **Sydney Dynamics Group (SDG)** workshops were initiated in 2014 by me as pa
 
 ## List of Workshops
 
+* **[SDG mini-workshop: Geometric Singular Perturbation Theory](https://martinwechselberger.github.io/gspt-workshop/)**
+  * **Date:** 18–19 March 2026
+  * **Location:** University of Sydney, NSW
+  * **Organiser:** Martin Wechselberger, USyd
 * **SDG workshop: Dynamical Systems - Theory and Application**
   * **Date:** 10–14 November 2025
   * **Location:** Kioloa, NSW
