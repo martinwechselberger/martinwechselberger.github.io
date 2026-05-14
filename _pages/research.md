@@ -10,13 +10,13 @@ My research program focuses on the development of geometric methods for multi-ti
 ## Current Research Grants
 
 * **Geometric methods to detect rate-induced tipping events in genuine multi-timescale models** (DP260100522)
-  * **Role:** First Investigator (Lead)
+  * **Role:** Lead Investigator
   * **Summary:** This project develops a novel geometric framework for rate-induced tipping (R-tipping) to predict ecosystem collapses and identify early warning signals for climate-related transitions.
 * **Determining endocrine-mediated plastic responses to transient heat waves** (DP250101953)
   * **Role:** Chief Investigator
   * **Summary:** An interdisciplinary project determining animal resilience to heat waves by uncovering endocrine-mediated mechanisms and constructing predictive mathematical models of the environment-endocrine-phenotype axis.
 * **A coordinate-independent theory for multiple time-scale dynamical systems** (DP220101817)
-  * **Role:** First Investigator (Lead)
+  * **Role:** Lead Investigator
   * **Summary:** Formulation of a coordinate-independent GSPT to analyse systems where standard global timescale splittings are unavailable.
 
 ---
