@@ -42,7 +42,7 @@ author_profile: true
 
 <div class="pub-category">Journal Articles</div>
 <ol>
-  <li>T. E. F. Lapuz and M. Wechselberger, "Coordinate-Independent Model Reductions of Chemical Reaction Networks Based on Geometric Singular Perturbation Theory", <i>SIAM J. Life Sciences</i> 1(2), 163-201, 2026. <br>DOI: <a href="https://doi.org/10.1137/25M1785022" class="doi-link">10.1137/25M1785022</a></li>
+  <li>T. E. F. Lapuz and M. Wechselberger, "Coordinate-Independent Model Reductions of Chemical Reaction Networks Based on Geometric Singular Perturbation Theory", <i>SIAM J. Life Sciences</i> 1(2), 163-201, 2026. <br>DOI: <a href="https://epubs.siam.org/doi/abs/10.1137/25M1785022" class="doi-link">10.1137/25M1785022</a></li>
    <li> B. Rink, T. Vo and M. Wechselberger, "A coordinate-independent Pontryagin-Rodygin theorem for slow-fast averaging", <i>Quart. Appl. Math.</i> 84(2), 285-324, 2026. <br>DOI: <a href="https://doi.org/10.1090/qam/1735" class="doi-link">10.1090/qam/1735</a></li>
   <li>T. Miller, A. K. Y. Tam, R. Marangell, M. Wechselberger, and B. H. Bradshaw-Hajek, "Shock selection in reaction–diffusion equations with partially negative diffusivity using nonlinear regularisation", <i>Phys. D</i> 474, Paper No. 134561, 2025. <br>DOI: <a href="https://doi.org/10.1016/j.physd.2025.134561" class="doi-link">10.1016/j.physd.2025.134561</a></li>
   <li>B. H. Bradshaw-Hajek, I. Lizarraga, R. Marangell, and M. Wechselberger, "A geometric singular perturbation analysis of shock selection rules in composite regularized reaction-nonlinear diffusion models", <i>SIAM J. Appl. Dyn. Syst.</i> 23(3), 2099–2137, 2024. <br>DOI: <a href="https://doi.org/10.1137/23M1591803" class="doi-link">10.1137/23M1591803</a></li>
